@@ -1,15 +1,15 @@
 {
-  "main.css": "/apiweather/static/css/main.f999b776.chunk.css",
-  "main.js": "/apiweather/static/js/main.258d1041.chunk.js",
-  "main.js.map": "/apiweather/static/js/main.258d1041.chunk.js.map",
-  "runtime~main.js": "/apiweather/static/js/runtime~main.94b8d40a.js",
-  "runtime~main.js.map": "/apiweather/static/js/runtime~main.94b8d40a.js.map",
-  "static/css/2.30356359.chunk.css": "/apiweather/static/css/2.30356359.chunk.css",
-  "static/js/2.d9d4db48.chunk.js": "/apiweather/static/js/2.d9d4db48.chunk.js",
-  "static/js/2.d9d4db48.chunk.js.map": "/apiweather/static/js/2.d9d4db48.chunk.js.map",
-  "index.html": "/apiweather/index.html",
-  "precache-manifest.106a0d3913a21b190204b84ce3380d33.js": "/apiweather/precache-manifest.106a0d3913a21b190204b84ce3380d33.js",
-  "service-worker.js": "/apiweather/service-worker.js",
-  "static/css/2.30356359.chunk.css.map": "/apiweather/static/css/2.30356359.chunk.css.map",
-  "static/css/main.f999b776.chunk.css.map": "/apiweather/static/css/main.f999b776.chunk.css.map"
+  "main.css": "/apiWeather/static/css/main.f999b776.chunk.css",
+  "main.js": "/apiWeather/static/js/main.dfe44397.chunk.js",
+  "main.js.map": "/apiWeather/static/js/main.dfe44397.chunk.js.map",
+  "runtime~main.js": "/apiWeather/static/js/runtime~main.757034f8.js",
+  "runtime~main.js.map": "/apiWeather/static/js/runtime~main.757034f8.js.map",
+  "static/css/2.30356359.chunk.css": "/apiWeather/static/css/2.30356359.chunk.css",
+  "static/js/2.d9d4db48.chunk.js": "/apiWeather/static/js/2.d9d4db48.chunk.js",
+  "static/js/2.d9d4db48.chunk.js.map": "/apiWeather/static/js/2.d9d4db48.chunk.js.map",
+  "index.html": "/apiWeather/index.html",
+  "precache-manifest.06d44c62702927ea84e1d3a3eb1e97a1.js": "/apiWeather/precache-manifest.06d44c62702927ea84e1d3a3eb1e97a1.js",
+  "service-worker.js": "/apiWeather/service-worker.js",
+  "static/css/2.30356359.chunk.css.map": "/apiWeather/static/css/2.30356359.chunk.css.map",
+  "static/css/main.f999b776.chunk.css.map": "/apiWeather/static/css/main.f999b776.chunk.css.map"
 }
