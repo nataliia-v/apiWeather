@@ -1,16 +1,16 @@
 {
-  "main.css": "/apiWeather/static/css/main.feefe8cc.chunk.css",
-  "main.js": "/apiWeather/static/js/main.69b397b8.chunk.js",
-  "main.js.map": "/apiWeather/static/js/main.69b397b8.chunk.js.map",
+  "main.css": "/apiWeather/static/css/main.170d1d0e.chunk.css",
+  "main.js": "/apiWeather/static/js/main.ef87aac4.chunk.js",
+  "main.js.map": "/apiWeather/static/js/main.ef87aac4.chunk.js.map",
   "runtime~main.js": "/apiWeather/static/js/runtime~main.757034f8.js",
   "runtime~main.js.map": "/apiWeather/static/js/runtime~main.757034f8.js.map",
   "static/css/2.f14583aa.chunk.css": "/apiWeather/static/css/2.f14583aa.chunk.css",
-  "static/js/2.d9d4db48.chunk.js": "/apiWeather/static/js/2.d9d4db48.chunk.js",
-  "static/js/2.d9d4db48.chunk.js.map": "/apiWeather/static/js/2.d9d4db48.chunk.js.map",
+  "static/js/2.61733f9d.chunk.js": "/apiWeather/static/js/2.61733f9d.chunk.js",
+  "static/js/2.61733f9d.chunk.js.map": "/apiWeather/static/js/2.61733f9d.chunk.js.map",
   "index.html": "/apiWeather/index.html",
-  "precache-manifest.c784c7ebbfb9d7f203a110869c389546.js": "/apiWeather/precache-manifest.c784c7ebbfb9d7f203a110869c389546.js",
+  "precache-manifest.ffbaaabb47b7f7ede1945077ee7ff160.js": "/apiWeather/precache-manifest.ffbaaabb47b7f7ede1945077ee7ff160.js",
   "service-worker.js": "/apiWeather/service-worker.js",
   "static/css/2.f14583aa.chunk.css.map": "/apiWeather/static/css/2.f14583aa.chunk.css.map",
-  "static/css/main.feefe8cc.chunk.css.map": "/apiWeather/static/css/main.feefe8cc.chunk.css.map",
-  "static/media/App.css": "/apiWeather/static/media/bg-main.b8d36510.jpg"
+  "static/css/main.170d1d0e.chunk.css.map": "/apiWeather/static/css/main.170d1d0e.chunk.css.map",
+  "static/media/App.module.css": "/apiWeather/static/media/bg-main.b8d36510.jpg"
 }
