@@ -1,5 +1,5 @@
 {
-  "main.css": "/apiWeather/static/css/main.e4f2633c.chunk.css",
+  "main.css": "/apiWeather/static/css/main.ecf0dd27.chunk.css",
   "main.js": "/apiWeather/static/js/main.c9361d4c.chunk.js",
   "main.js.map": "/apiWeather/static/js/main.c9361d4c.chunk.js.map",
   "runtime~main.js": "/apiWeather/static/js/runtime~main.757034f8.js",
@@ -8,9 +8,9 @@
   "static/js/2.7d04f3d4.chunk.js": "/apiWeather/static/js/2.7d04f3d4.chunk.js",
   "static/js/2.7d04f3d4.chunk.js.map": "/apiWeather/static/js/2.7d04f3d4.chunk.js.map",
   "index.html": "/apiWeather/index.html",
-  "precache-manifest.3fe224555f220e706c448f307c3e0424.js": "/apiWeather/precache-manifest.3fe224555f220e706c448f307c3e0424.js",
+  "precache-manifest.ec56ddfe1a2b0aeea86d5f10aa28c93c.js": "/apiWeather/precache-manifest.ec56ddfe1a2b0aeea86d5f10aa28c93c.js",
   "service-worker.js": "/apiWeather/service-worker.js",
   "static/css/2.f14583aa.chunk.css.map": "/apiWeather/static/css/2.f14583aa.chunk.css.map",
-  "static/css/main.e4f2633c.chunk.css.map": "/apiWeather/static/css/main.e4f2633c.chunk.css.map",
+  "static/css/main.ecf0dd27.chunk.css.map": "/apiWeather/static/css/main.ecf0dd27.chunk.css.map",
   "static/media/App.module.css": "/apiWeather/static/media/bg-main.b8d36510.jpg"
 }
